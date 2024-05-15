@@ -1,72 +1,67 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>World's Highest Website</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            font-family: Arial, sans-serif;
-            background-color: #000000;
-            color: #fff;
-            text-align: center;
-        }
-
-        .container {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            height: 100%;
-        }
-
-        .content {
-            padding: 20px;
-        }
-
-        h1 {
-            font-size: 48px;
-            margin-bottom: 20px;
-        }
-
-        p {
-            font-size: 24px;
-            margin-bottom: 20px;
-        }
-
-        a {
-            color: #fff;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página de inicio</title>
+  <meta name="description" content="Meta descripción de la página de inicio">
+  <link rel="icon" href="/starter-project-eleventy-github-pages/img/favicon.png">
+  <link rel="stylesheet" href="/starter-project-eleventy-github-pages/css/styles.css">
 </head>
 <body>
-    <div class="container">
-        <img src="https://d36zcfw941bpv7.cloudfront.net/media/social.png" alt="img">
-        <div class="content">
-            <h1>El Sitio Web Más Alto del Mundo</h1>
-            <p>Bienvenido a la página web más larga del mundo! Actualmente tiene 18,94 kilómetros de largo y es un verdadero placer hacer scroll. Disfrútalo!
-            Haz scroll de forma manual o utiliza el ascensor, el cual ofrece teletransportación gratuita por el hipertexto a la velocidad de la luz.</p>
-            <p>|_
-            </p>
-            <p>Increíble, verdad? Otra vez? Haz scroll de nuevo hasta llegar al principio, nosotros te esperamos aquí. Usa el ascensor o utiliza la combinación de teclas Ctrl + Inicio.
-            El resto puede leer la letra pequeña. Esta página web es un experimento con CSS. Debido a su naturaleza tecnológica hay ciertas restricciones, pero cualquiera que tenga experiencia con éstas lo comprenderá. Esta página utiliza los siguientes elementos:
-            un contenedor HTML;
-            CSS (hojas de estilo en cascada);
-            ningún otro truco.
-            Una vez sabido esto, aquí estan los problemas conocidos e interesantes:
-            Navegadores basados en un Gecko-Engine, como por ejemplo Firefox, muestran un comportamiento interesante si intentas hacer la página más larga de 18,939583 kilómetros. En este caso el contenedor principal encoje o incluso se colapsa.
-            Internet Explorer ignora las referencias internas y en este caso no está claro si el contenedor realmente mide 18,94 kilómetros de largo.
-            Si tienes una solución a este problema o incluso puedes aportar un elemento más largo, cuya representación esté soportada por más de un navegador, manda un correo electrónico a info@worlds-highest-website.com. Con mucha probabilidad habrá una recompensa.
-            WHWS es presentado por Jens Oliver Meiert y el «Flying Standardistas Club». Diseño: Alessandro Lettieri. Traducción: Sergio Lerena Robles.</p>
-        </div>
-    </div>
+  <header>
+    <h2>Mi sitio con <i>11ty</i></h2>
+    <nav class="menu">
+  <ul>
+    <li><a href="/starter-project-eleventy-github-pages/">Inicio</a></li>
+    <li><a href="/starter-project-eleventy-github-pages/acerca">Acerca</a></li>
+    <li><a href="/starter-project-eleventy-github-pages/contacto">Contacto</a></li>
+    <li><a href="/starter-project-eleventy-github-pages/blog">Blog</a></li>
+  </ul>
+</nav>
+    <img src="/starter-project-eleventy-github-pages/img/eleventy.avif" alt="Mascota 11ty">
+  </header>
+  <main>
+    
+<h1>Página de inicio</h1>
+<p>
+  Hola, este es un <i>starter project</i> minimalista para crear sitios estáticos con <b><i>11ty</i></b> y desplegarlos en <i>GitHub Pages</i>.
+</p>
+<div>
+  <img src="/starter-project-eleventy-github-pages/img/eleventy.svg" alt="Eleventy">
+  <h2>+</h2>
+  <img src="/starter-project-eleventy-github-pages/img/github.svg" alt="GitHub">
+</div>
+<hr>
+<h2>Hola Mundo Eleventy 🦡🎈</h2>
+<p>
+  Para sacarle mayor provecho a este <i>starter project</i>, te sugiero revisar los siguientes enlaces:
+</p>
+<ul>
+  
+    <li>
+      <a href="https://www.11ty.dev/docs/" target="_blank">Documentación de <i>11ty</i></a>
+    </li>
+  
+    <li>
+      <a href="https://www.11ty.dev/mascot/" target="_blank">Mascotas de <i>11ty</i></a>
+    </li>
+  
+    <li>
+      <a href="https://mozilla.github.io/nunjucks/" target="_blank">Documentación de <i>NunJucks</i></a>
+    </li>
+  
+    <li>
+      <a href="https://www.youtube.com/watch?v=yCF9l4_E5rI" target="_blank">Curso de <i>11ty</i> de @jonmircha</a>
+    </li>
+  
+</ul>
+  </main>
+  <hr>
+<footer>
+  🎈🦡 <small>Sitio hecho con <a href="https://www.11ty.dev/" target="_blank"><b><i>11ty</i></b></a></small> 🦡🎈
+</footer>
+
+  <script src="/starter-project-eleventy-github-pages/js/main.js" type="module"></script>
 </body>
 </html>
