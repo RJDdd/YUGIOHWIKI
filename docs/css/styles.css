@@ -17,7 +17,7 @@ a {
   transition: all 0.3s ease-out;
 
   &:hover {
-    color: red;
+    color: rgb(0, 255, 174);
   }
 }
 
@@ -40,7 +40,7 @@ li {
   width: 100%;
   max-width: 480px;
   margin: 0 auto;
-  border: thin solid red;
+  border: thin solid rgb(255, 230, 0);
 
   ul {
     margin: 0;
