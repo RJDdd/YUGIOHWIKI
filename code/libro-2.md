@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
 title: Blue eyes Dragon
-description: Articulo Dragon Blanco de ojos azules
-tags: ["blog", "Arquetipos"]
+description: Articulo Blue eyes Dragon
+tags: ["blog", "peliculas"]
 date: "2024-01-09"
 ---
 

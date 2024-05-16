@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Dark Magican
 description: Articulo Dark Magican
-tags: ["blog", "Arquetipos"]
+tags: ["blog", "peliculas"]
 date: "2024-02-22"
 ---
 
