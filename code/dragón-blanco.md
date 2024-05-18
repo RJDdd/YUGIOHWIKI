@@ -1,12 +1,12 @@
 ---
 layout: layout-post.njk
-title: Blue eyes Dragon
-description: Articulo Blue eyes Dragon
-tags: ["blog", "peliculas"]
-date: "2024-01-09"
+title: Arquetipo Ojos Azules
+description: Dragón Blanco de Ojos Azules El Arquetipo Legendario de Yu-Gi-Oh!
+tags: ["blog", "libros"]
+date: "2024-05-17"
 ---
 
-# {{ Dragón Blanco de Ojos Azules: El Arquetipo Legendario de Yu-Gi-Oh! }}
+# {{ "Dragón Blanco de Ojos Azules: El Arquetipo Legendario de Yu-Gi-Oh!" }}
 
 El Dragón Blanco de Ojos Azules, conocido como "Blue-Eyes White Dragon" en inglés, es uno de los arquetipos más emblemáticos y poderosos del universo de Yu-Gi-Oh!. Desde su debut en el manga y el anime, ha capturado la imaginación de los duelistas y se ha consolidado como una figura central en el juego de cartas coleccionables. Este artículo explora la historia, las cartas clave, y la evolución del arquetipo del Dragón Blanco de Ojos Azules, así como su impacto en la serie animada y en la comunidad de jugadores.
 

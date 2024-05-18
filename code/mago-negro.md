@@ -1,12 +1,12 @@
 ---
 layout: layout-post.njk
-title: Dark Magican
-description: Articulo Dark Magican
-tags: ["blog", "peliculas"]
-date: "2024-02-22"
+title: Arquetipo Mago Negro
+description: Mago Negro El Arquetipo Emblemático de Yu-Gi-Oh!
+tags: ["blog", "libros"]
+date: "2024-05-17"
 ---
 
-# {{ Mago Negro: El Arquetipo Emblemático de Yu-Gi-Oh! }}
+# {{ "Mago Negro: El Arquetipo Emblemático de Yu-Gi-Oh!" }}
 
 El Mago Negro es uno de los arquetipos más icónicos y queridos en la franquicia Yu-Gi-Oh!. Desde sus primeras apariciones en el manga y el anime, el Mago Negro ha sido una figura central, representando el espíritu y la fuerza del protagonista, Yugi Muto. Este artículo profundiza en la historia, las cartas clave, y la evolución del arquetipo del Mago Negro en el juego de cartas, además de su presencia en la serie animada.
 

@@ -10,10 +10,11 @@ body {
   border: medium solid rgb(150, 241, 255);
   text-align: center;
   font-family: system-ui, sans-serif;
+  background-color: #1873a5;
 }
 
 a {
-  color: #1873a5;
+  color: #001521;
   transition: all 0.3s ease-out;
 
   &:hover {
@@ -29,6 +30,11 @@ hr {
 img {
   display: block;
   margin: 0 auto;
+
+}
+.img{
+  width: 90%;
+  height: auto;
 }
 
 p,

@@ -1,12 +1,12 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 3
-description: Descripción de la reseña del libro 3
-tags: ["blog", "peliculas"]
-date: "2024-05-23"
+title: Arquetipo Buster Blader
+description: Buster Blader El Guerrero Dragón de Yu-Gi-Oh!
+tags: ["blog", "libros"]
+date: "2024-05-17"
 ---
 
-# {{ Buster Blader: El Guerrero Dragón de Yu-Gi-Oh! }}
+# {{ "Buster Blader: El Guerrero Dragón de Yu-Gi-Oh!" }}
 
 Buster Blader es un arquetipo icónico en el universo de Yu-Gi-Oh!, conocido por su capacidad para contrarrestar a los dragones y su impresionante poder de ataque. Desde su debut en el juego de cartas y su presencia en el anime, Buster Blader ha capturado la imaginación de los duelistas con su historia heroica y su destreza en el campo de batalla. Este artículo explora la historia, las cartas clave y la evolución del arquetipo de Buster Blader, así como su impacto en la serie animada y en la comunidad de jugadores.
 
