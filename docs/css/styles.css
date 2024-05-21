@@ -10,11 +10,14 @@ body {
   border: medium solid rgb(150, 241, 255);
   text-align: center;
   font-family: system-ui, sans-serif;
-  background-color: #1873a5;
+  background-color: #302f6a;
+  color: aliceblue;
 }
-
+h1,h2,h3{
+  color: aquamarine;
+}
 a {
-  color: #001521;
+  color: #79fffd;
   transition: all 0.3s ease-out;
 
   &:hover {

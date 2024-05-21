@@ -11,10 +11,10 @@
     "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/YUGIOHWIKI/"
   },
   "keywords": [
-    "11ty",
-    "eleventy",
-    "github pages",
-    "jonmircha"
+    "Yugioh",
+    "Wiki",
+    "Arquetipos",
+    "Cartas Coleccionables"
   ],
   "author": "Rajid Luan <cdmx2605@amerike.edu.mx>",
   "license": "MIT",

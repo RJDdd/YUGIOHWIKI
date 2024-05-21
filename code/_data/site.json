@@ -1,21 +1,21 @@
 {
-  "message": "Hola Mundo Eleventy 🦡🎈",
+  "message": "Links oficiales",
   "linksDoc": [
     {
-      "text": "Documentación de <i>11ty</i>",
-      "url": "https://www.11ty.dev/docs/"
+      "text": "Yu-gi-oh! Duel links",
+      "url": "https://www.konami.com/yugioh/duel_links/en/"
     },
     {
-      "text": "Mascotas de <i>11ty</i>",
-      "url": "https://www.11ty.dev/mascot/"
+      "text": "Yu-gi-oh! TCG",
+      "url": "https://www.yugioh-card.com/?Latin_America_and_the_Caribbean"
     },
     {
-      "text": "Documentación de <i>NunJucks</i>",
-      "url": "https://mozilla.github.io/nunjucks/"
+      "text": "Master Duel",
+      "url": "https://www.konami.com/yugioh/masterduel/"
     },
     {
-      "text": "Curso de <i>11ty</i> de @jonmircha",
-      "url": "https://www.youtube.com/watch?v=yCF9l4_E5rI"
+      "text": "Konami",
+      "url": "https://www.konami.com/games/eu/es/"
     }
   ]
 }

@@ -1,1 +1,1 @@
-console.log("Hola Mundo desde 11ty 🦡🎈");
+console.log("Yu-gi-oh Wiki");
