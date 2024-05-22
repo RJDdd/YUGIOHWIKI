@@ -16,6 +16,7 @@ body {
 h1,h2,h3{
   color: aquamarine;
 }
+
 a {
   color: #79fffd;
   transition: all 0.3s ease-out;
