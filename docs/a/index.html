@@ -8,6 +8,16 @@
   <link rel="icon" href="/img/favicon.png">
   <link rel="stylesheet" href="/css/styles.css">
 </head>
+<script>
+  document.getElementById('search-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Evitar que se recargue la página
+    const query = document.getElementById('search-input').value.toLowerCase();
+
+    // Aquí puedes agregar la lógica para buscar en tu sitio.
+    // Por ejemplo, podrías redirigir a una página de resultados de búsqueda con el query
+    window.location.href = '/buscar?query=' + encodeURIComponent(query);
+  });
+</script>
 <body>
   <header>
     <h2>Mi sitio con <i>11ty</i></h2>
