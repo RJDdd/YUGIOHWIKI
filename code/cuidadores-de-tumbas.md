@@ -1,7 +1,7 @@
 ---
 layout: layout-post.njk
 title: Arquetipo Cuidadores de Tumbas
-description: Gravekeeper's El Arquetipo de los Guardianes de la Necrópolis en Yu-Gi-Oh!
+description: Gravekeepers El Arquetipo de los Guardianes de la Necrópolis en Yu-Gi-Oh!
 tags: ["blog", "libros"]
 date: "2024-05-17"
 ---
