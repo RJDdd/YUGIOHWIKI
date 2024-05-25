@@ -1,0 +1,34 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const searchForm = document.getElementById("search-form");
+  const searchInput = document.getElementById("search-input");
+  const searchResults = document.getElementById("search-results");
+
+  // Fetch the list of .md files from the JSON file
+  async function fetchFiles() {
+    const response = await fetch('\YugiohWiki\files.json');  // Cambia esta ruta según la ubicación real del archivo JSON
+    const data = await response.json();
+    return data.files;
+  }
+
+  // Handle form submission
+  searchForm.addEventListener("submit", async function(event) {
+    event.preventDefault();
+    const query = searchInput.value.toLowerCase();
+    const files = await fetchFiles();
+    const results = files.filter(file => file.toLowerCase().includes(query));
+
+    // Display results
+    searchResults.innerHTML = "";
+    if (results.length > 0) {
+      results.forEach(result => {
+        const resultItem = document.createElement("div");
+        resultItem.textContent = result;
+        searchResults.appendChild(resultItem);
+      });
+    } else {
+      searchResults.textContent = "No se encontraron resultados";
+    }
+  });
+});
+</script>
