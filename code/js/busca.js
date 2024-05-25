@@ -1,13 +1,5 @@
-<nav class="menu">
-  <ul>
-    <li><a href="/">Inicio</a></li>
-    <li><a href="/acerca">Acerca</a></li>
-    <li><a href="/contacto">Contacto</a></li>
-    <li><a href="/blog">Arquetipos</a></li>
-  </ul>
-  <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const searchInput = document.querySelector("#search-input");
+  const searchInput = document.getElementById("search-input");
 
   searchInput.addEventListener("keyup", e => {
     const searchValue = e.target.value.toLowerCase();
@@ -27,11 +19,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
-</script>
-
-<input type="text" id="search-input" placeholder="Buscar...">
-<div class="resultados">
-  <!-- Los resultados de la búsqueda irán aquí -->
-</div>
-
-</nav>
