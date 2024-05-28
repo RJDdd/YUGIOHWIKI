@@ -9,10 +9,15 @@ body {
   padding: 1rem;
   max-width: 800px;
   min-height: 100vh;
-  border: medium solid rgb(150, 241, 255);
+  border: medium solid #96f1ff;
   text-align: center;
   font-family: system-ui, sans-serif;
   background-color: #302f6a;
+  background: url("/img/Fondo.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   color: aliceblue;
 }
 h1,h2,h3{

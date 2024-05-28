@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -7,10 +9,15 @@ body {
   padding: 1rem;
   max-width: 800px;
   min-height: 100vh;
-  border: medium solid rgb(150, 241, 255);
+  border: medium solid #96f1ff;
   text-align: center;
   font-family: system-ui, sans-serif;
   background-color: #302f6a;
+  background: url("/img/Fondo.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   color: aliceblue;
 }
 h1,h2,h3{
@@ -63,4 +70,15 @@ li {
   li {
     list-style: none;
   }
+}
+#listaArticulos{
+  font-size: 30px;
+  margin-top: 20px;
+  list-style: none;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+}
+.filtro{
+  display: none;
 }
