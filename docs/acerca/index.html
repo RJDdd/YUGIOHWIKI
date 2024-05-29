@@ -5,24 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Página de Acerca</title>
   <meta name="description" content="Meta descripción de la página de acerca">
-  <link rel="icon" href="/YUGIOHWIKI/img/Almas Psiquico-Fusion Monster.jpeg">
-  <link rel="stylesheet" href="/YUGIOHWIKI/css/styles.css">
+  <link rel="icon" href="/img/Almas Psiquico-Fusion Monster.jpeg">
+  <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
   <header>
-  <img src="/YUGIOHWIKI/img/yugioh_logo.png" alt="logo" width="200" height="auto">
-    <nav class="menu">
+  <img src="/img/yugioh_logo.png" alt="logo" width="200" height="auto">
+    <style>
+    #suggestions {
+      list-style: none;
+      padding: 0;
+    }
+    #suggestions li {
+      margin: 5px 0;
+    }
+    #suggestions a {
+      text-decoration: none;
+      color: blue;
+    }
+    #suggestions a:hover {
+      text-decoration: underline;
+    }
+  </style>
+<nav class="menu">
   <ul>
-    <li><a href="/YUGIOHWIKI/">Inicio</a></li>
-    <li><a href="/YUGIOHWIKI/acerca">Acerca</a></li>
-    <li><a href="/YUGIOHWIKI/contacto">Contacto</a></li>
-    <li><a href="/YUGIOHWIKI/blog">Arquetipos</a></li>
+    <li><a href="/">Inicio</a></li>
+    <li><a href="/acerca">Acerca</a></li>
+    <li><a href="/contacto">Contacto</a></li>
+    <li><a href="/blog">Arquetipos</a></li>
   </ul>
   <div>
-    <input class="" id="" type="text" name="" placeholder="" style="width:90%; height:30px;display:block;margin:0 auto;">
-    <button style="width:100px; height:30px;display:block;margin:0 auto;margin-top:10px;" id="">Buscar</button>
+      <h1></h1>
+  <input type="text" id="searchInput" placeholder="">
+  <ul id="suggestions"></ul>
+
+  <script src="/js/busca.js"></script>
 </div>
-</nav>
+
     
   </header>
   <main>
@@ -31,13 +50,13 @@
 <p>
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Est consectetur doloribus esse fugit modi quos in at harum quidem, quas tempora iusto laboriosam, praesentium repellat pariatur sint mollitia quasi molestias.
 </p>
-<img src="/YUGIOHWIKI/img/eleventy-mascots.avif" alt="Mascotas Eleventy">
+<img src="/img/eleventy-mascots.avif" alt="Mascotas Eleventy">
   </main>
   <hr>
 <footer>
   <small>Repository <a href="https://github.com/RJDdd/YUGIOHWIKI.git" target="_blank"><b><i>GitHub</i></b></a></small> 
 </footer>
 
-  <script src="/YUGIOHWIKI/js/main.js" type="module"></script>
+  <script src="/js/main.js" type="module"></script>
 </body>
 </html>
