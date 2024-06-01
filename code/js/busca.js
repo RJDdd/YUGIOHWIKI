@@ -3,8 +3,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const suggestions = document.getElementById('suggestions');
 
   const items = [
-    { name: 'Inicio', link: '/' },
-    { name: 'Arquetipos', link: '/blog/' },
     { name: 'Alanegra', link: 'https://rjddd.github.io/YUGIOHWIKI/alanegra/' },
     { name: 'Aliado de la justicia', link: 'https://rjddd.github.io/YUGIOHWIKI/aliado-de-la-justicia/' },
     { name: 'Amazoness', link: 'https://rjddd.github.io/YUGIOHWIKI/amazoness/' },
