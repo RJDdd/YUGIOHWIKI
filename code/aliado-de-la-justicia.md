@@ -17,31 +17,31 @@ El arquetipo Aliado de la Justicia hizo su debut en el set "Phantom Darkness" en
 El arquetipo se centra en la destrucción y el control del campo de juego del oponente, utilizando efectos que anulan cartas y habilidades del adversario. Los monstruos Aliado de la Justicia a menudo tienen habilidades que se activan cuando se enfrentan a monstruos de determinados atributos, lo que les permite ganar ventaja y dominar la batalla.
 
 #### Cartas Clave del Arquetipo
-
+![GitHub](/img/aliado1.jpg)
 **Aliado de la Justicia Catastor**
 - **Fecha de Lanzamiento**: 2008
 - **Descripción**: "Una vez por turno, puedes seleccionar 1 monstruo que controle tu adversario cuyo Atributo sea Luz, y destruirlo. Si esta carta batalla con un monstruo cuyo Atributo sea Luz, en el Damage Step: destruye al monstruo sin aplicar cálculo de daño."
-
+![GitHub](/img/aliado2.jpg)
 **Aliado de la Justicia Decisive Armor**
 - **Fecha de Lanzamiento**: 2008
 - **Descripción**: "Siempre que uno o más monstruos "Aliado de la Justicia" que controles batallen con un monstruo en Posición de Defensa boca arriba cuyo Atributo sea Luz, inflige daño de batalla perforador de Defensa a tu adversario."
-
+![GitHub](/img/aliado3.jpg)
 **Aliado de la Justicia Core Destroyer**
 - **Fecha de Lanzamiento**: 2011
 - **Descripción**: "Cuando esta carta es Invocada de Modo Normal, puedes seleccionar 1 monstruo "Aliado de la Justicia" en tu Cementerio y añadirlo a tu mano."
-
+![GitHub](/img/aliado4.jpg)
 **Aliado de la Justicia Cyclone Creator**
 - **Fecha de Lanzamiento**: 2011
 - **Descripción**: "Puedes desterrar 1 carta de tu Cementerio para seleccionar 1 carta boca arriba que controle tu adversario; destruye esa carta."
-
+![GitHub](/img/aliado5.jpg)
 **Aliado de la Justicia Nullifier**
 - **Fecha de Lanzamiento**: 2011
 - **Descripción**: "Puedes seleccionar 1 carta boca arriba que controle tu adversario; destiérrala."
-
+![GitHub](/img/aliado6.jpg)
 **Aliado de la Justicia Quarantine**
 - **Fecha de Lanzamiento**: 2011
 - **Descripción**: "Una vez por turno, puedes seleccionar 1 monstruo "Aliado de la Justicia" que controles; hasta la End Phase, cambia el Atributo de todos los monstruos de tu adversario a ese Atributo."
-
+![GitHub](/img/aliado7.jpg)
 **Aliado de la Justicia Omni Weapon**
 - **Fecha de Lanzamiento**: 2011
 - **Descripción**: "Puedes seleccionar 1 monstruo "Aliado de la Justicia" que controles; hasta la End Phase, ese monstruo gana 800 ATK y DEF por cada monstruo en el Campo cuyo Atributo sea Luz."

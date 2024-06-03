@@ -17,37 +17,37 @@ El arquetipo Amazoness hizo su primera aparición en el set "Labyrinth of Nightm
 El arquetipo se basa en monstruos de tipo Guerrero, con efectos que mejoran las capacidades de combate y protegen a otros monstruos Amazoness. Con el tiempo, se han introducido cartas de soporte que expanden las tácticas disponibles para los duelistas, proporcionando una gama de estrategias ofensivas y defensivas.
 
 #### Cartas Clave del Arquetipo
-
+![GitHub](/img/amazo1.jpg)
 **Amazoness Swords Woman**
 - **Fecha de Lanzamiento**: 2003
 - **Descripción**: "Los jugadores reciben el daño de batalla que habrían recibido de batallas involucrando esta carta en lugar del controlador de esta carta."
 - **Caja de Lanzamiento**: Labyrinth of Nightmare
-
+![GitHub](/img/amazo2.jpg)
 **Amazoness Queen**
 - **Fecha de Lanzamiento**: 2010
 - **Descripción**: "Tu oponente no puede destruir monstruos 'Amazoness' en batalla."
 - **Caja de Lanzamiento**: Duelist Revolution
-
+![GitHub](/img/amazo3.jpg)
 **Amazoness Princess**
 - **Fecha de Lanzamiento**: 2017
 - **Descripción**: "Esta carta se trata como 'Amazoness Queen' mientras esté en el campo o en el Cementerio. Puedes añadir 1 carta 'Amazoness' o 'Amazoness Village' desde tu Deck a tu mano."
 - **Caja de Lanzamiento**: Legendary Duelists
-
+![GitHub](/img/amazo4.jpg)
 **Amazoness Baby Tiger**
 - **Fecha de Lanzamiento**: 2017
 - **Descripción**: "Esta carta se trata como 'Amazoness Tiger' mientras esté en el campo o en el Cementerio. Si una 'Amazoness' es invocada de modo normal o especial: Puedes invocar esta carta desde tu Cementerio."
 - **Caja de Lanzamiento**: Legendary Duelists
-
+![GitHub](/img/amazo5.jpg)
 **Amazoness Village**
 - **Fecha de Lanzamiento**: 2010
 - **Descripción**: "Todos los monstruos 'Amazoness' ganan 200 ATK. Una vez por turno, cuando un monstruo 'Amazoness' es destruido en batalla o por efecto de carta, puedes invocar de modo especial un monstruo 'Amazoness' de Nivel 4 o menor desde tu Deck."
 - **Caja de Lanzamiento**: Duelist Revolution
-
+![GitHub](/img/amazo6.jpg)
 **Amazoness Call**
 - **Fecha de Lanzamiento**: 2017
 - **Descripción**: "Añade 1 monstruo 'Amazoness' desde tu Deck a tu mano, o, durante el Battle Phase, puedes invocarlo de modo especial. Puedes desterrar esta carta de tu Cementerio; durante este turno, tus monstruos 'Amazoness' pueden atacar a todos los monstruos que controle tu oponente, una vez cada uno."
 - **Caja de Lanzamiento**: Legendary Duelists
-
+![GitHub](/img/amazo7.jpg)
 **Amazoness Onslaught**
 - **Fecha de Lanzamiento**: 2017
 - **Descripción**: "Durante la Battle Phase: Puedes invocar de modo especial un monstruo 'Amazoness' desde tu mano, y si lo haces, gana 500 ATK hasta el final de este turno (aun si esta carta deja el campo). Después del cálculo de daño, si tu monstruo 'Amazoness' batalló con un monstruo del oponente: Puedes desterrar ese monstruo del oponente."

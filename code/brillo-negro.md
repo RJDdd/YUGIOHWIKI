@@ -27,10 +27,13 @@ El corazón del arquetipo Caos reside en la habilidad de invocar monstruos de lu
 #### Cartas Clave del Arquetipo
 
 Además de Soldado del Brillo Negro y Gaia el Caballero Feroz, el arquetipo Caos cuenta con una variedad de cartas clave que potencian su juego. Algunas de estas cartas incluyen:
-
+![GitHub](/img/brillo1.jpg)
 - **Caos Emperor Dragon - Envoy of the End**: Un monstruo poderoso que puede destruir cartas en el campo y en la mano del oponente.
+![GitHub](/img/brillo2.jpg)
 - **Black Luster Soldier - Envoy of the Beginning**: Un guerrero legendario que puede atacar dos veces en el mismo turno y desterrar monstruos.
-- **Ritual de Gaia**: Un hechizo que permite invocar a Soldado del Brillo Negro de manera rápida y eficiente.
+![GitHub](/img/chaosform.jpg)
+- **Chaos form**: Un hechizo que permite invocar a Soldado del Brillo Negro de manera rápida y eficiente.
+![GitHub](/img/brillo3.jpg)
 - **Gaia the Fierce Knight Origin**: Una carta de soporte que aumenta el ATK de los monstruos Caos y les otorga protección contra efectos de cartas.
 
 #### Evolución del Arquetipo en el Juego de Cartas

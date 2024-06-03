@@ -19,23 +19,23 @@ El arquetipo se caracteriza por su enfoque en las invocaciones Pendulum, una mec
 #### Cartas Clave del Arquetipo
 
 Algunas de las cartas clave del arquetipo Artistamigo incluyen:
-
+![GitHub](/img/amigo1.jpg)
 **Artistamigo Monkeyboard**
 - **Fecha de Lanzamiento**: 2015
 - **Descripción**: "Si no tienes cartas en tu otra Zona de Péndulo: puedes destruir esta carta y, si lo haces, añade 1 monstruo "Artistamigo" de tu Deck a tu mano. Solo puedes usar este efecto de "Artistamigo Monkeyboard" una vez por turno."
-
+![GitHub](/img/amigo2.jpg)
 **Artistamigo Pendulum Sorcerer**
 - **Fecha de Lanzamiento**: 2015
 - **Descripción**: "Si esta carta es Invocada de Modo Especial: puedes seleccionar hasta 2 cartas que controles; destrúyelas y, si lo haces, añade a tu mano el mismo número de monstruos "Artistamigo" de tu Deck."
-
+![GitHub](/img/amigo3.jpg)
 **Artistamigo Skullcrobat Joker**
 - **Fecha de Lanzamiento**: 2015
 - **Descripción**: "Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano 1 monstruo "Artistamigo", "Magician", o "Odd-Eyes" de tu Deck."
-
+![GitHub](/img/amigo4.jpg)
 **Artistamigo Lizardraw**
 - **Fecha de Lanzamiento**: 2015
 - **Descripción**: "Una vez por turno: puedes seleccionar otra carta que controles; destrúyela, y si lo haces, roba 1 carta. Solo puedes usar este efecto de "Artistamigo Lizardraw" una vez por turno."
-
+![GitHub](/img/amigo5.jpg)
 **Artistamigo Guitartle**
 - **Fecha de Lanzamiento**: 2015
 - **Descripción**: "Si una carta "Artistamigo" es destruida: puedes robar 1 carta. Solo puedes usar este efecto de "Artistamigo Guitartle" una vez por turno."

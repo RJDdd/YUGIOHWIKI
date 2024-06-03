@@ -19,23 +19,23 @@ Los Alanegra se destacan por su capacidad para invocar rápidamente monstruos de
 #### Cartas Clave del Arquetipo
 
 Algunas de las cartas clave del arquetipo Alanegra incluyen:
-
+![GitHub](/img/alanegra1.jpg)
 **Blackwing - Sirocco the Dawn**
 - **Fecha de Lanzamiento**: 2009
 - **Descripción**: "Si solo tu adversario controla un monstruo, puedes Invocar esta carta de Modo Normal sin Sacrificar. Durante tu Main Phase 1, puedes seleccionar 1 monstruo que controles con la palabra 'Alanegra'; hasta la End Phase, gana ATK igual al ATK de todos los 'Alanegra' boca arriba que controles actualmente, excepto a sí mismo."
-
+![GitHub](/img/alanegra2.jpg)
 **Blackwing - Bora the Spear**
 - **Fecha de Lanzamiento**: 2009
 - **Descripción**: "Si controlas un monstruo 'Alanegra' que no sea 'Blackwing - Bora the Spear', puedes Invocar esta carta de Modo Especial (desde tu mano). Esta carta puede atacar en posición de Defensa."
-
+![GitHub](/img/alanegra3.jpg)
 **Blackwing - Gale the Whirlwind**
 - **Fecha de Lanzamiento**: 2009
 - **Descripción**: "Si controlas un monstruo 'Alanegra' que no sea 'Blackwing - Gale the Whirlwind', puedes Invocar esta carta de Modo Especial (desde tu mano). Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; ese objetivo pierde la mitad de su ATK y DEF."
-
+![GitHub](/img/alanegra4.jpg)
 **Blackwing Armor Master**
 - **Fecha de Lanzamiento**: 2009
 - **Descripción**: "1 monstruo 'Alanegra' Tuner + 1 o más monstruos que no sean Tuners. Esta carta no puede ser destruida en batalla y no recibes daño de batalla de batallas que involucren esta carta. Al final del Damage Step, si esta carta batalló con un monstruo: puedes poner 1 contador 'Pluma' en ese monstruo. (Un monstruo con un contador 'Pluma' tiene sus efectos negados y su ATK/DEF se reducen a 0.)"
-
+![GitHub](/img/alanegra5.jpg)
 **Blackwing - Kalut the Moon Shadow**
 - **Fecha de Lanzamiento**: 2009
 - **Descripción**: "Durante el Damage Step, en cualquier turno, cuando un monstruo 'Alanegra' que controles esté atacando o siendo atacado: puedes mandar esta carta desde tu mano al Cementerio; ese monstruo atacante o atacado gana 1400 ATK, hasta el final de este turno."
