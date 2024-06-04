@@ -90,4 +90,4 @@ El Dragón del Trueno no solo es una figura central en la narrativa de Yu-Gi-Oh!
 
 El arquetipo del Dragón del Trueno ha sido una parte integral del universo de Yu-Gi-Oh! desde sus inicios. Su evolución en el juego de cartas y su presencia constante en el anime han asegurado su lugar como uno de los arquetipos más queridos y respetados. Con una rica historia y una amplia variedad de cartas de soporte, el Dragón del Trueno sigue siendo una opción poderosa y popular entre los duelistas, simbolizando la electricidad y la fuerza que hacen de Yu-Gi-Oh! un fenómeno global.
 
-![GitHub](/img/github.svg)
+![GitHub](/img/yugioh_logo.png)

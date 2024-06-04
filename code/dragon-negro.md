@@ -95,4 +95,4 @@ El Dragón Negro de Ojos Rojos no solo es una figura central en la narrativa de 
 
 El arquetipo del Dragón Negro de Ojos Rojos ha sido una parte integral del universo de Yu-Gi-Oh! desde sus inicios. Su evolución en el juego de cartas y su presencia constante en el anime han asegurado su lugar como uno de los arquetipos más queridos y respetados. Con una rica historia y una amplia variedad de cartas de soporte, el Dragón Negro de Ojos Rojos sigue siendo una opción poderosa y popular entre los duelistas, simbolizando la resiliencia y el poder que hacen de Yu-Gi-Oh! un fenómeno global.
 
-![GitHub](/img/github.svg)
+![GitHub](/img/yugioh_logo.png)

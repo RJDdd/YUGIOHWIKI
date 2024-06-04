@@ -17,47 +17,47 @@ El arquetipo Gravekeeper's hizo su primera aparición en el set "Pharaonic Guard
 El arquetipo se basa en monstruos que no solo tienen efectos defensivos y de control, sino también habilidades ofensivas que pueden abrumar al oponente. Con el tiempo, se han introducido cartas de soporte que han mejorado la sinergia y versatilidad del arquetipo, haciendo de Gravekeeper's una elección popular tanto en juegos casuales como competitivos.
 
 #### Cartas Clave del Arquetipo
-
+![GitHub](/img/cuida1.jpg)
 **Gravekeeper's Chief**
 - **Fecha de Lanzamiento**: 2003
 - **Descripción**: "Puedes invocar de modo especial un monstruo 'Gravekeeper's' desde tu Cementerio. Mientras 'Necrovalley' esté en el Campo, los monstruos en tu Cementerio no son afectados por efectos de cartas excepto por 'Necrovalley'."
 - **Caja de Lanzamiento**: Pharaonic Guardian
-
+![GitHub](/img/cuida2.jpg)
 **Gravekeeper's Spy**
 - **Fecha de Lanzamiento**: 2003
 - **Descripción**: "FLIP: Invoca de modo especial un monstruo 'Gravekeeper's' con 1500 o menos ATK desde tu Deck."
 - **Caja de Lanzamiento**: Pharaonic Guardian
-
+![GitHub](/img/cuida3.jpg)
 **Gravekeeper's Commandant**
 - **Fecha de Lanzamiento**: 2007
 - **Descripción**: "Puedes descartar esta carta al Cementerio; añade 1 'Necrovalley' desde tu Deck a tu mano."
 - **Caja de Lanzamiento**: Tactical Evolution
-
+![GitHub](/img/cuida4.jpg)
 **Necrovalley**
 - **Fecha de Lanzamiento**: 2003
 - **Descripción**: "Todos los monstruos 'Gravekeeper's' ganan 500 ATK/DEF. Las cartas en el Cementerio no pueden ser desterradas. Niegue cualquier efecto de carta que mueva una carta en el Cementerio a otro lugar. Niegue cualquier efecto que cambie Tipos o Atributos en el Cementerio."
 - **Caja de Lanzamiento**: Pharaonic Guardian
-
+![GitHub](/img/cuida5.jpg)
 **Gravekeeper's Descendant**
 - **Fecha de Lanzamiento**: 2009
 - **Descripción**: "Puedes liberar otro monstruo 'Gravekeeper's'; selecciona una carta que controle tu adversario y destrúyela."
 - **Caja de Lanzamiento**: Absolute Powerforce
-
+![GitHub](/img/cuida6.jpg)
 **Gravekeeper's Recruiter**
 - **Fecha de Lanzamiento**: 2010
 - **Descripción**: "Si esta carta que controlas es enviada a tu Cementerio: añade 1 monstruo 'Gravekeeper's' con 1500 o menos DEF desde tu Deck a tu mano."
 - **Caja de Lanzamiento**: Starstrike Blast
-
+![GitHub](/img/cuida7.jpg)
 **Gravekeeper's Shaman**
 - **Fecha de Lanzamiento**: 2014
 - **Descripción**: "Gana 200 DEF por cada monstruo 'Gravekeeper's' en tu Cementerio. Mientras 'Necrovalley' esté en el Campo, tu adversario no puede activar efectos de cartas en el Cementerio y no puede desterrar cartas en el Cementerio."
 - **Caja de Lanzamiento**: Legacy of the Valiant
-
+![GitHub](/img/cuida8.jpg)
 **Gravekeeper's Spiritualist**
 - **Fecha de Lanzamiento**: 2019
 - **Descripción**: "Durante tu Main Phase, si 'Necrovalley' está en el Campo: puedes Fusionar esta carta que controlas con otros monstruos 'Gravekeeper's' que controlas."
 - **Caja de Lanzamiento**: The Infinity Chasers
-
+![GitHub](/img/cuida9.jpg)
 **Gravekeeper's Supernaturalist**
 - **Fecha de Lanzamiento**: 2019
 - **Descripción**: "2 monstruos 'Gravekeeper's'. Gana ATK/DEF igual a su Nivel combinado x 100. Mientras 'Necrovalley' esté en el Campo, esta carta y cualquier carta en tu Zona de Campo no pueden ser destruidas por efectos de cartas."

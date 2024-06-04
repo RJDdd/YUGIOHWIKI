@@ -17,42 +17,42 @@ El Dragón Blanco de Ojos Azules debutó en el primer capítulo del manga "Yu-Gi
 El arquetipo del Dragón Blanco de Ojos Azules se centra en la invocación y el fortalecimiento de dragones poderosos. A lo largo de los años, se han lanzado numerosas cartas que apoyan y mejoran el uso del Dragón Blanco de Ojos Azules en el campo de batalla. Estas cartas incluyen monstruos, hechizos y trampas que se combinan para crear un arquetipo robusto y formidable.
 
 #### Cartas Clave del Arquetipo
-
+![GitHub](/img/dboa1.jpg)
 **Dragón Blanco de Ojos Azules**
 - **Fecha de Lanzamiento**: 1999 (en Japón, en el set de Legend of Blue Eyes White Dragon)
 - **Descripción**: "Este legendario dragón es una poderosa máquina de destrucción."
 - **Caja de Lanzamiento**: Legend of Blue Eyes White Dragon
-
+![GitHub](/img/dboa2.jpg)
 **Dragón Blanco Alternativo de Ojos Azules**
 - **Fecha de Lanzamiento**: 2016
 - **Descripción**: "Puedes invocar esta carta de tu mano revelando un 'Dragón Blanco de Ojos Azules' en tu mano. Una vez por turno, puedes destruir un monstruo que controle tu oponente."
 - **Caja de Lanzamiento**: Shining Victories
-
+![GitHub](/img/dboa3.jpg)
 **Dragón del Espíritu de los Ojos Azules**
 - **Fecha de Lanzamiento**: 2016
 - **Descripción**: "Este dragón puede desterrar cartas en el campo y se puede invocar de forma especial en respuesta a ataques o efectos de cartas."
 - **Caja de Lanzamiento**: Shining Victories
-
+![GitHub](/img/chaosform.jpg)
 **Ritual del Caos**
 - **Fecha de Lanzamiento**: 2004
 - **Descripción**: "Una carta de hechizo que permite invocar al Dragón del Caos Max, un poderoso monstruo de ritual."
 - **Caja de Lanzamiento**: Rise of Destiny
-
+![GitHub](/img/dboa5.jpg)
 **Dragón del Caos MAX de Ojos Azules**
 - **Fecha de Lanzamiento**: 2016
 - **Descripción**: "Un monstruo de ritual que inflige daño de batalla doble y no puede ser objetivo de efectos de cartas."
 - **Caja de Lanzamiento**: The Dark Side of Dimensions Movie Pack
-
+![GitHub](/img/dboa6.jpg)
 **Dragón de Azules-Ojos Gemelos Explosivos**
 - **Fecha de Lanzamiento**: 2017
 - **Descripción**: "Un monstruo de fusión que requiere dos Dragones Blancos de Ojos Azules y tiene la habilidad de destruir todas las cartas del oponente cuando es invocado."
 - **Caja de Lanzamiento**: Duelist Pack: Kaiba
-
+![GitHub](/img/dboa7.jpg)
 **Sage with Eyes of Blue**
 - **Fecha de Lanzamiento**: 2016
 - **Descripción**: "Este monstruo puede buscar un 'Dragón Blanco de Ojos Azules' y enviarlo al cementerio para activar efectos especiales."
 - **Caja de Lanzamiento**: Shining Victories
-
+![GitHub](/img/dboa8.jpg)
 **The White Stone of Ancients**
 - **Fecha de Lanzamiento**: 2016
 - **Descripción**: "Un monstruo que puede buscar un 'Dragón Blanco de Ojos Azules' al final del turno y tiene efectos adicionales cuando es enviado al cementerio."
@@ -82,4 +82,4 @@ El Dragón Blanco de Ojos Azules no solo es una figura central en la narrativa d
 
 El arquetipo del Dragón Blanco de Ojos Azules ha sido una parte integral del universo de Yu-Gi-Oh! desde sus inicios. Su evolución en el juego de cartas y su presencia constante en el anime han asegurado su lugar como uno de los arquetipos más queridos y respetados. Con una rica historia y una amplia variedad de cartas de soporte, el Dragón Blanco de Ojos Azules sigue siendo una opción poderosa y popular entre los duelistas, simbolizando la fuerza y el poder que hacen de Yu-Gi-Oh! un fenómeno global.
 
-![Eleventy](/img/eleventy.svg)
+![GitHub](/img/yugioh_logo.png)

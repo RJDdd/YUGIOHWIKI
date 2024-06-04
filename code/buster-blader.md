@@ -17,40 +17,41 @@ Buster Blader, conocido como "Destructor de Dragones" en español, hizo su debut
 El arquetipo de Buster Blader se centra en la lucha contra dragones y en la fusión de poderosos monstruos. A lo largo de los años, se han lanzado numerosas cartas que apoyan y mejoran el uso de Buster Blader en el campo de batalla. Estas cartas incluyen monstruos, hechizos y trampas que se combinan para crear un arquetipo robusto y versátil.
 
 #### Cartas Clave del Arquetipo
-
+![GitHub](/img/Blade1.jpg)
 **Buster Blader**
 - **Fecha de Lanzamiento**: 2002 (en el set de Pharaoh's Servant)
 - **Descripción**: "Este guerrero obtiene 500 puntos de ATK por cada Dragón en el Cementerio de tu adversario."
 - **Caja de Lanzamiento**: Pharaoh's Servant
-
-**Buster Blader, el Espadachín Destructorde Dragones**
-- **Fecha de Lanzamiento**: 2015
-- **Descripción**: "Esta carta se trata siempre como 'Buster Blader'. Si un monstruo Dragón está en el Cementerio de tu adversario o en su Campo, puedes invocar esta carta de tu mano."
-- **Caja de Lanzamiento**: Breakers of Shadow
-
-**El Destrucción Dragones de Buster Blader**
+![GitHub](/img/Blade2.jpg)
+**Buster Blader, el Espadachín Destructor de Dragones**
 - **Fecha de Lanzamiento**: 2016
-- **Descripción**: "Esta carta gana 1000 ATK por cada monstruo Dragón que tu adversario controle o en su Cementerio."
+- **Descripción**: "1 "Buster Blader" + 1 monstruo Dragón
+Debe ser Invocado por Fusión. No puede atacar directamente. Gana 1000 ATK/DEF por cada monstruo Dragón que tu adversario controle o que esté en su Cementerio. Cambia a Posición de Defensa todos los monstruos Dragón que controle tu adversario, y además los monstruos Dragón en posesión de tu adversario no pueden activar sus efectos. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración."
 - **Caja de Lanzamiento**: Breakers of Shadow
-
+![GitHub](/img/destruction-sword-memories.jpg)
+**Recuerdos de la Espada de la Destrucción**
+- **Fecha de Lanzamiento**: 2016
+- **Descripción**: "Descarta 1 carta "Espada de la Destrucción"; Invoca de Modo Especial, desde el Deck, 1 monstruo "Buster Blader". Puedes desterrar esta carta en tu Cementerio; Invoca por Fusión, desde tu Deck Extra, 1 "Buster Blader, el Esgrimista Destructor de Dragones", desterrando de tu Cementerio los Materiales de Fusión mencionados en él."
+- **Caja de Lanzamiento**: Breakers of Shadow
+![GitHub](/img/Blade4.jpg)
 **Espada de Destrucción de Buster**
-- **Fecha de Lanzamiento**: 2015
+- **Fecha de Lanzamiento**: 2016
 - **Descripción**: "Un monstruo equipado con esta carta se convierte en 'Buster Blader' y gana 500 ATK por cada Dragón en ambos Cementerios."
 - **Caja de Lanzamiento**: Breakers of Shadow
-
+![GitHub](/img/Blade5.jpg)
 **Fusión Buster Blader**
 - **Fecha de Lanzamiento**: 2016
 - **Descripción**: "Esta carta permite fusionar a Buster Blader con un monstruo Dragón para invocar a 'Buster Blader, el Dragón Destructivo de la Espada'."
 - **Caja de Lanzamiento**: Breakers of Shadow
-
-**Buster Blader, el Dragón Destructivo de la Espada**
+![GitHub](/img/Blade6.jpg)
+**Karma of the Destruction Swordsman**
 - **Fecha de Lanzamiento**: 2016
-- **Descripción**: "Un monstruo de fusión que requiere 'Buster Blader' y un monstruo Dragón. Puede cambiar todos los monstruos Dragón en el campo de tu adversario a Modo de Defensa y sus efectos son negados."
+- **Descripción**: "Selecciona hasta 3 monstruos del mismo Tipo en el Cementerio de tu adversario; destiérralos y, si lo haces, hasta el final de este turno 1 monstruo "Buster Blader" o 1 monstruo "la Espada de la Destrucción" que controles gana 500 ATK y DEF por cada uno de esos monstruos desterrados. Si esta carta está en tu Cementerio: puedes descartar 1 carta "la Espada de la Destrucción"; añade esta carta a tu mano. Sólo puedes usar cada efecto de "Karma del Soldado de la Espada de la Destrucción" una vez por turno."
 - **Caja de Lanzamiento**: Breakers of Shadow
-
-**El Destructor de Espada de Buster Blader**
-- **Fecha de Lanzamiento**: 2015
-- **Descripción**: "Un monstruo que puede ser invocado de manera especial cuando un monstruo Dragón es enviado al Cementerio. Se puede equipar con 'Buster Blader'."
+![GitHub](/img/Blade7.jpg)
+**Buster Dragon**
+- **Fecha de Lanzamiento**: 2016
+- **Descripción**: "Todos los monstruos que controle tu adversario se convierten en Dragón. Una vez por turno, si no controlas un monstruo "Buster Blader": puedes seleccionar 1 monstruo "Buster Blader" en tu Cementerio; Invócalo de Modo Especial. Una vez por turno del adversario (Efecto Rápido): puedes seleccionar 1 "Buster Blader" que controles; equípalo con 1 monstruo "la Espada de la Destrucción" en tu Cementerio."
 - **Caja de Lanzamiento**: Breakers of Shadow
 
 #### Evolución del Arquetipo en el Juego de Cartas
@@ -84,4 +85,4 @@ Buster Blader no solo es una figura central en la narrativa de Yu-Gi-Oh!, sino q
 
 El arquetipo de Buster Blader ha sido una parte integral del universo de Yu-Gi-Oh! desde sus inicios. Su evolución en el juego de cartas y su presencia constante en el anime han asegurado su lugar como uno de los arquetipos más queridos y respetados. Con una rica historia y una amplia variedad de cartas de soporte, Buster Blader sigue siendo una opción poderosa y popular entre los duelistas, simbolizando la lucha heroica contra los dragones y la búsqueda incansable de la justicia.
 
-![Eleventy](/img/eleventy.svg)
+![GitHub](/img/yugioh_logo.png)
